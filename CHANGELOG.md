@@ -1,6 +1,12 @@
 # CHANGELOG
 
-## [Unreleased](https://github.com/bridgecrewio/checkov/compare/3.3.15...HEAD)
+## [Unreleased](https://github.com/bridgecrewio/checkov/compare/3.3.16...HEAD)
+
+## [3.3.16](https://github.com/bridgecrewio/checkov/compare/3.3.15...3.3.16) - 2026-08-30
+
+### Bug Fix
+
+- **terraform:** Added current Azure Terraform resources and taggable resources as of hashicorp/azurerm provider version 4.81 - [#7652](https://github.com/bridgecrewio/checkov/pull/7652)
 
 ## [3.3.15](https://github.com/bridgecrewio/checkov/compare/3.3.13...3.3.15) - 2026-08-27
 
